@@ -11,9 +11,9 @@
 
 
 ## We've got **Hunters**:
-- [Asha](Mythsecure-Organization/Hunters/Asha.md)
-- [Chonko](Mythsecure-Organization/Hunters/Chonko.md)
-- [Dullface](Mythsecure-Organization/Hunters/Dullface.md)
-- [Lady Squatch](Mythsecure-Organization/Hunters/Lady%20Squatch.md)
-- [Mr. Miata](Mythsecure-Organization/Hunters/Mr.%20Miata.md)
+- [Asha](Mythsecure-Organization/Hunters/Asha)
+- [Chonko](Mythsecure-Organization/Hunters/Chonko)
+- [Dullface](Mythsecure-Organization/Hunters/Dullface)
+- [Lady Squatch](Mythsecure-Organization/Hunters/Lady%20Squatch)
+- [Mr. Miata](Mythsecure-Organization/Hunters/Mr.%20Miata)
 
