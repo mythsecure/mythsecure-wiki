@@ -3,11 +3,7 @@
 ---
 
 
-# Welcome to the mythsecure wiki!
-
-## Check out the **Engagements**:
-- [Session History - 120 Westview Place](Engagements/120%20Westview%20Place/Session%20History%20-%20120%20Westview%20Place.md)
-- [Session History - 200 Central Park West](Engagements/200%20Central%20Park%20West/Session%20History%20-%20200%20Central%20Park%20West.md)
+Welcome to the mythsecure wiki!
 
 ---
 
