@@ -5,28 +5,37 @@
 
 Welcome to the mythsecure wiki!
 
-# 1
+---
 
-## 2
 
-### 3
+| table   | table   |
+| ------- | ------- |
+| content | content |
 
-#### 4
 
-##### 5
+# 1 heading 1
+
+## 2 heading 2
+
+### 3 heading 3
+
+#### 4 heading
+
+##### 5 heading
 
 **bold**
 _italic_
 
 > quote
 
-> [!info] > Here's a callout block.
+> [!info] Here's a callout block.
 
 
 > [!tip] Callouts can have custom titles
 
 
-> [!faq]- Are callouts foldable? > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
+> [!faq]- Are callouts foldable? 
+> > Yes! In a foldable callout, the contents are hidden when the callout is collapsed.
 
 
 ```bash
