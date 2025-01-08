@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-public-wiki/readme/"}
+{"dg-publish":true,"permalink":"/mythsecure-public-wiki/readme/","tags":["gardenEntry"]}
 ---
 
 
