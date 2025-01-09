@@ -7,9 +7,12 @@
 ---
 
 ## Check out some **Engagements**
-- [Session History - 120 Westview Place](Engagements/120%20Westview%20Place/Session%20History%20-%20120%20Westview%20Place.md)
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place\|Session History - 120 Westview Place]] - wikilink
+- [Session History - 120 Westview Place](Engagements/120%20Westview%20Place/Session%20History%20-%20120%20Westview%20Place.md) - non-wikilink
 
 
+
+---
 ## We've got **Hunters**:
 - [Asha](Mythsecure-Organization/Hunters/Asha)
 - [Chonko](Mythsecure-Organization/Hunters/Chonko)
