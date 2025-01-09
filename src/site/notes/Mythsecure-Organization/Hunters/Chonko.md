@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","created":"2024-05-28T11:32:42.000-04:00","updated":"2025-01-07T22:41:31.920-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","created":"2024-05-28T11:32:42.000-04:00","updated":"2025-01-08T23:44:22.032-05:00"}
 ---
 
 # Chonko
