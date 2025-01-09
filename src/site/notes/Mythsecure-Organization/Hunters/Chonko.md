@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","created":"2024-05-28T11:32:42.000-04:00","updated":"2025-01-08T23:44:22.032-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","created":"2024-05-28T11:32:42.000-04:00","updated":"2025-01-08T23:47:20.988-05:00"}
 ---
 
 # Chonko
@@ -8,6 +8,11 @@
 | ------ | ---------- | -------- |
 | Chonko | The Spooky | she/her  |
 
+| Charm | Cool | Sharp | Tough | Weird |
+| ----- | ---- | ----- | ----- | ----- |
+| _-1_  | +1   | 0     | +1    | +2    |
+
+
 Adult, creepy eyes, goth clothes
 Creepy goth waif vibe
 
@@ -15,9 +20,6 @@ Creepy goth waif vibe
 
 # Ratings
 
-| Charm | Cool | Sharp | Tough | Weird |
-| ----- | ---- | ----- | ----- | ----- |
-| _-1_  | +1   | 0     | +1    | +2    |
 
 # Status
 ## Harm and Luck
