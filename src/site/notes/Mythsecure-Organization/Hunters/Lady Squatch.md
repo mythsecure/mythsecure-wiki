@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/","noteIcon":"","created":"2024-05-28T11:33:50.000-04:00","updated":"2025-01-07T22:41:39.889-05:00"}
 ---
 
 # Lady Squatch

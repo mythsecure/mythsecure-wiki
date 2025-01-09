@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/1984-article/"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/1984-article/","noteIcon":"","created":"2024-08-16T16:39:54.000-04:00","updated":"2025-01-07T22:40:36.611-05:00"}
 ---
 
 SHAFTSBURY, VT - 1984

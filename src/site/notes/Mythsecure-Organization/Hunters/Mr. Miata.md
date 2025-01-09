@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/mr-miata/"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/mr-miata/","noteIcon":"","created":"2024-05-24T13:46:16.000-04:00","updated":"2025-01-07T22:41:44.407-05:00"}
 ---
 
 # Mr. Miata

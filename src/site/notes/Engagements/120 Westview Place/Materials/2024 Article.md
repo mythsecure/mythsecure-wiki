@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/2024-article/"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/2024-article/","noteIcon":"","created":"2024-08-16T16:49:00.000-04:00","updated":"2025-01-07T22:40:33.840-05:00"}
 ---
 
 SHAFTSBURY, VT - 2024

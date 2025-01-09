@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/locations/shaftsbury/"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/locations/shaftsbury/","noteIcon":"","created":"2024-08-16T16:39:28.000-04:00","updated":"2025-01-07T22:40:38.731-05:00"}
 ---
 
 # Shaftsbury

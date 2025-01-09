@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/minions/the-rats/"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/minions/the-rats/","noteIcon":"","created":"2024-08-16T16:46:44.000-04:00","updated":"2025-01-07T22:40:31.967-05:00"}
 ---
 
 # The Rats

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/bystanders/paul-herbert/"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/bystanders/paul-herbert/","noteIcon":"","created":"2024-08-21T17:32:04.000-04:00","updated":"2025-01-07T22:40:45.326-05:00"}
 ---
 
 # Paul Herbert
