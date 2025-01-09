@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-08T23:04:18.521-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-08T23:05:15.373-05:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Date: 23 May 2024
 
 # Quick Links
 
-|            |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Type       | Content                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hunters    | - [[Mythsecure-Organization/Hunters/Asha\|Asha]] the Flake<br>- [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] the Spooky<br>- [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] the Mundane<br>- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] the Divine - _Partial_<br>- [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] the Professional - _Partial_ |
 | Bystanders | - [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Willie Herbert\|Willie Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]                                                                                                                                                                                                                        |
