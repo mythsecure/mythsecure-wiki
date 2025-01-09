@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-08T23:55:01.212-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-09T00:18:56.600-05:00"}
 ---
 
 
@@ -8,27 +8,44 @@
 Date: 23 May 2024
 
 ----
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#Quick Info\|Quick Info]]
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|The Engagement]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Start-Of-Engagement Moves]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Teaser/Background Information]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Arriving on Location]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Speaking with the Herbert Family]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Things Get Violent]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Protecting the Family]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Exploring the House]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|The Situation Comes into Focus]]
+	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Endgame]]
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#End of Session Check-In\|End of Session Check-In]]
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#Notes for the Future\|Notes for the Future]]
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#Reflections\|Reflections]]
+- [[Engagements/120 Westview Place/Session History - 120 Westview Place#Keeper Notes\|Keeper Notes]]
 
-# Quick Info
+---
+## Info Table
 
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                           |     |               |                                                                                                           |
-| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-: | :------------ | --------------------------------------------------------------------------------------------------------- |
-| **Hunters**    | - [[Mythsecure-Organization/Hunters/Asha\|Asha]] the Flake<br>- [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] the Spooky<br>- [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] the Mundane<br>- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] the Divine - _Partial_<br>- [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] the Professional - _Partial_ |     | **Threats**   | - [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]]<br>- [[Engagements/120 Westview Place/Minions/The Rats\|The Rats]]                            |
-| **Bystanders** | - [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Willie Herbert\|Willie Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]                                                                                                                                                                                                                        |     | **Locations** | - [[Engagements/120 Westview Place/Locations/Keefe House\|Keefe House]]<br>- [[Engagements/120 Westview Place/Locations/Shaftsbury\|Shaftsbury]], VT<br>- A local diner |
-| **Materials**  | - [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]]<br>- [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]<br>                                                                                                                                                                                                                                                                                                                              |     |               |                                                                                                           |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Hunters**    | - [[Mythsecure-Organization/Hunters/Asha\|Asha]] the Flake<br>- [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] the Spooky<br>- [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] the Mundane<br>- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] the Divine - _Partial_<br>- [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] the Professional - _Partial_ |
+| **Locations**  | - [[Engagements/120 Westview Place/Locations/Keefe House\|Keefe House]]<br>- [[Engagements/120 Westview Place/Locations/Shaftsbury\|Shaftsbury]], VT<br>- A local diner                                                                                                                                                                                                                                                                                                                 |
+| **Threats**    | - [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]]<br>- [[Engagements/120 Westview Place/Minions/The Rats\|The Rats]]                                                                                                                                                                                                                                                                                                                                            |
+| **Bystanders** | - [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Willie Herbert\|Willie Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]                                                                                                                                                                                                                        |
+| **Materials**  | - [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]]<br>- [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]<br>                                                                                                                                                                                                                                                                                                                              |
 
 
 
 ---
 
-# The Engagement
+## The Engagement
 
-## Start-Of-Engagement Moves
+### Start-Of-Engagement Moves
 [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] had a _premonition_ and saw a clouded image of something bad that had not yet transpired. The vision showed a metal shovel piercing through the meat of someone's shin.
 
-## Teaser/Background Information
-
-The hunters read two articles about the situation, the [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]] and the [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]. These came from local papers and cover goings on at the house at 120 Westview Place. In the house lived the Herberts:
+### Teaser/Background Information
+The hunters read two articles about the situation, the [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]] and the [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]. These came from local papers and covered goings on at the [[Engagements/120 Westview Place/Locations/Keefe House\|house at 120 Westview Place]]. In the house lived the Herberts:
 - [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]], father, web designer
 - [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]], mother, former lawyer
 - [[Engagements/120 Westview Place/Bystanders/Willie Herbert\|Willie Herbert]], 11-year old boy with asthma and a motivation to make crude jokes
@@ -43,7 +60,7 @@ We began with the hunters grabbing a late afternoon at a local restaurant after 
 
 After explaining the situation, Evers reminded the hunters that they were going to enter a family's home. They should be nice and maybe not go in with all their weapons visible.
 
-## Arriving on Location
+### Arriving on Location
 
 The hunters debriefed at a restaurant nearby the location, and then went directly to the house. During the debrief, their engagement manager [[Mythsecure-Organization/Personnel/Daniel Evers\|Daniel Evers]] instructed them that perhaps they should not show all of their weapons to the family in order to not scare them.
 
@@ -58,7 +75,7 @@ They knocked on the door and didn't make a great first impression, including whe
 
 They entered into a living room with a large dining table, a door to the kitchen, a large clock, fireplace and photos on the walls. There was an ornate staircase leading upstairs as well as large hanging mirror.
 
-## Speaking with the Herbert Family
+### Speaking with the Herbert Family
 
 [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]] left the room to fetch a pitcher of lemonade. [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]] revealed that she had the word _GUILTY_ scratched into her leg, but she did not feel it happening. Sometimes she felt/found fur around the house, though.
 
@@ -74,7 +91,7 @@ Upstairs, [[Mythsecure-Organization/Hunters/Asha\|Asha]] did not go talk to [[En
 
 The hunters then had a team huddle away from the family and decided that they should ask the Herberts to leave the house so the hunters can work without bothering them, and possibly get them away from danger. Though reluctant at first, the hunters charmed the family into getting ready to leave. Willie came down from upstairs at the promise of ice cream.
 
-## Things Get Violent
+### Things Get Violent
 
 [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] attempted to open the front door, but it wouldn't budge. At the same time, the hunters heard what sounded like a room full of rusty squeaking wheels and from under the door came an enormous [[Engagements/120 Westview Place/Minions/The Rats\|swarm of rats]] which attacked Lady Squatch, throwing her to the ground. The house then echoed with an otherworldly screech.
 
@@ -90,7 +107,7 @@ Lady Squatch then grabbed the Herbert family and attempted to teleport them to s
 
 The remaining hunters chased Colleen into the garage, and noticed it contained rusty old tools from the nearby farms such as rakes and scythes, as well as snow shovels and salt for the Vermont winters. Chonko grabbed an old rusty iron scythe and used it to strike Colleen, who howled and vanished.
 
-## Protecting the Family
+### Protecting the Family
 Rattled, Willie had a hard time breathing without his inhaler and his parents were very concerned. Asha darted upstairs to grab it from his bedside, and brought it down to the garage to get his asthma under control.
 
 The hunters began to strategize about how they might be able to use the salt and rusty iron tools to protect the family, offering to create a salt ring or pile to keep the family safe from Colleen. Paul loudly protested, and accused the hunters of being charlatans since they had never seen any activity like this until the hunters themselves showed up. 
@@ -101,7 +118,7 @@ Chonko sensed that the negative feeling surrounding the monster was at its weake
 
 The three hunters poured a salt pile on the basement floor for the family to stand on while they investigate the house further. Dullface stayed behind to watch the family as the other two go upstairs to try and find more items to fight with and more information about the situation.
 
-## Exploring the House
+### Exploring the House
 
 Asha and Chonko went back to the garage to find more iron objects to use as weapons. When they arrived, they moved towards a rusty shovel that sprang into the air and rocketed towards them. Asha deftly stepped aside and missed it completely, and Chonko was able to quickly to pull out her knife just in time to deflect the shovel from embedding itself in her leg. This was the event that Chonko had seen in the premonition, and Chonko prevented it from coming to pass. It did, however, cause both the knife and shovel to break.
 
@@ -117,7 +134,7 @@ Dullface recklessly left the family alone to try and grab a fireplace poker. How
 
 Chonko again attempted to use _the sight_ in the attic, and discovered the far more docile ghost of [[Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]. Damian revealed that he had killed Colleen, and that "no part of her has ever left this house."
 
-## The Situation Comes into Focus
+### The Situation Comes into Focus
 
  Upon discovering Dullface laying unconscious, Asha secured the fireplace poker in order to defend against attack. She swang wildly around the room with the iron poker, but the only result was the sound of a woman's laughter echoing through the house. 
  
@@ -127,7 +144,7 @@ The hunters chased after the rats to defend the family, only to find that the ra
 
 Asha used her .38 revolver and fired a shot at the floor between the family and the staircase, causing the rats to disperse into the shadows. The family fled back up the stairs, leaving the hunters to look around in the basement. Based on the behavior of the rats, the hunters suspected that [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]]'s body was in the basement.
 
-## Endgame
+### Endgame
 
 After investigating the basement, the hunters saw a bundle of cloth stored in the rafters. Asha retrieved it, and unraveled it to find a plastic beach umbrella and a few rats who scurried away.
 From upstairs, they hear the sound of two women screaming.
@@ -146,7 +163,7 @@ The house shook and the largest swarm of rats yet erupted from everywhere, causi
 
 ---
 
-# End of Session Check-In
+## End of Session Check-In
 
  - Did we conclude the current mystery?
 	 - **Yes.** The hunters freed [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]] and learned the truth of her death.
@@ -160,7 +177,7 @@ The house shook and the largest swarm of rats yet erupted from everywhere, causi
 
 
 ---
-# Notes for the Future
+## Notes for the Future
 
 - [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s net friends/followers believe that her account has been hacked. This may have future implications if they believe her integrity has also been compromised. 
 - [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] found the idea of [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s belief system to be very appealing
@@ -169,13 +186,13 @@ The house shook and the largest swarm of rats yet erupted from everywhere, causi
 - [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] established that teleportation does not literally require angel wings, but vanished at a very inopportune moment - arousing additional suspicion from [[Mythsecure-Organization/Hunters/Dullface\|Dullface]].
 
 ---
-# Reflections
+## Reflections
 [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]] was weak to salt and iron - but not steel. The hunters could have used the salt itself as a weapon. Alternatively, if they had spread salt on the bones it would have caused all spooky activity in the house to stop - but not opened the door. 
 
 Speaking as the ghost of Damian, the Keeper did not provide very clear information to the hunters about how Colleen's remains were related to her being trapped in the house. The hunters figured it out anyway.
 
 ---
-# Keeper Notes
+## Keeper Notes
 
 - What do [[Mythsecure-Organization/Hunters/Asha\|Asha]] and [[Mythsecure-Organization/Hunters/Chonko\|Chonko]]'s knives look like?
 - What does [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]]'s armor look like?
