@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/bystanders/willie-herbert/","noteIcon":"","created":"2024-08-22T12:44:20.000-04:00","updated":"2025-01-07T22:40:41.807-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/bystanders/willie-herbert/","created":"2024-08-22T12:44:20.000-04:00","updated":"2025-01-07T22:40:41.807-05:00"}
 ---
 
 # Willie Herbert

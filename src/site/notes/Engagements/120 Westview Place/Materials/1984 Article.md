@@ -1,10 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/1984-article/","noteIcon":"","created":"2024-08-16T16:39:54.000-04:00","updated":"2025-01-07T22:40:36.611-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/materials/1984-article/","created":"2024-08-16T16:39:54.000-04:00","updated":"2025-01-08T22:49:51.538-05:00"}
 ---
 
-SHAFTSBURY, VT - 1984
+## 1984 Article
+During their [[Engagements/120 Westview Place/Session History - 120 Westview Place\|investigation of 120 Westview Place]], the hunters had access to two articles. 
 
-> Disturbing Discovery: Damian Keefe Found Dead Amidst Unresolved Mystery
+- [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]]
+- [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]
+
+
+## SHAFTSBURY, VT - 1984
+
+> **Disturbing Discovery: Damian Keefe Found Dead Amidst Unresolved Mystery**
 > 
 > In a chilling development, Damian Keefe, a resident of Shaftsbury, VT, was found dead in his attic yesterday. This tragic incident comes two months after the disappearance of his wife, Rebecca Keefe. Both in their late 30s, the Keefes have been the subject of a town-wide search since Rebecca’s unexplained absence. The initial investigation suggests that Damian’s wounds were self-inflicted.
 > 

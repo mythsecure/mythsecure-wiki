@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/locations/keefe-house/","noteIcon":"","created":"2024-08-16T16:41:04.000-04:00","updated":"2025-01-07T22:40:40.268-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/locations/keefe-house/","created":"2024-08-16T16:41:04.000-04:00","updated":"2025-01-07T22:40:40.268-05:00"}
 ---
 
 # Keefe House

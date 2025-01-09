@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","noteIcon":"","created":"2024-08-16T16:52:26.000-04:00","updated":"2025-01-07T22:41:33.825-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","created":"2024-08-16T16:52:26.000-04:00","updated":"2025-01-07T22:41:33.825-05:00"}
 ---
 
 # Dullface

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/personnel/daniel-evers/","noteIcon":"","created":"2024-05-28T11:54:44.000-04:00","updated":"2025-01-07T22:36:48.274-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/personnel/daniel-evers/","created":"2024-05-28T11:54:44.000-04:00","updated":"2025-01-07T22:36:48.274-05:00"}
 ---
 
 

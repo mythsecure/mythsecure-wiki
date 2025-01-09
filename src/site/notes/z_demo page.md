@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/z-demo-page/","noteIcon":"","created":"2025-01-07T22:42:27.709-05:00","updated":"2025-01-08T21:32:13.097-05:00"}
+{"dg-publish":true,"permalink":"/z-demo-page/","created":"2025-01-07T22:42:27.709-05:00","updated":"2025-01-08T23:12:24.860-05:00"}
 ---
 
 
@@ -10,6 +10,22 @@
 | table   | table   |
 | ------- | ------- |
 | content | content |
+
+
+Table with html
+```html
+
+| <div style="width:80%">column 1</div> | column 2                          |
+| ------------------------------------- | ------------------------------------- |
+| column 1         | column 2 |
+
+```
+
+
+| <div style="width:300px">column 1</div> | column 2 |
+| --------------------------------------- | -------- |
+| column 1                                | column 2 |
+
 
 
 # 1 heading 1

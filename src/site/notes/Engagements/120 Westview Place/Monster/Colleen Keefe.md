@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/monster/colleen-keefe/","noteIcon":"","created":"2024-08-16T16:47:12.000-04:00","updated":"2025-01-07T22:40:27.866-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/monster/colleen-keefe/","created":"2024-08-16T16:47:12.000-04:00","updated":"2025-01-08T22:51:45.945-05:00"}
 ---
 
 # Colleen Keefe
@@ -30,7 +30,7 @@ Colleen had not completely forgotten her own name, but it would have taken some 
 
 ## Powers
 - Ethereal: Colleen is not corporeal or part of the mortal plane, so attacks with solid objects did affect her. Only iron, magic, or salt could affect her.
-- [The Rats](../Minions/The%20Rats.md): Colleen could control a huge swarm of rats
+- [[Engagements/120 Westview Place/Minions/The Rats\|The Rats]]: Colleen could control a huge swarm of rats
 - Telekinesis: Colleen could move, hold, throw and manipulate objects with her mind. She could strike the hunters with objects.
 - Teleportation: Colleen could vanish and reappear anywhere in the house at will
 
