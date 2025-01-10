@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-09T22:23:49.735-05:00"}
+{"dg-publish":true,"permalink":"/engagements/120-westview-place/session-history-120-westview-place/","pinned":true,"created":"2024-08-22T12:55:06.000-04:00","updated":"2025-01-09T22:30:48.195-05:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 Date: 23 May 2024
 
 ----
->[!summary]- Table of Contents
+>[!example]- Table of Contents
 > - [[Engagements/120 Westview Place/Session History - 120 Westview Place#Quick Info\|Quick Info]]
 > - [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|The Engagement]]
 >	- [[Engagements/120 Westview Place/Session History - 120 Westview Place#The Engagement\|Start-Of-Engagement Moves]]
@@ -27,7 +27,6 @@ Date: 23 May 2024
 
 ---
 ## Info Table
-HELLO
 
 |                |                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -36,33 +35,6 @@ HELLO
 | **Threats**    | - [[Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]]<br>- [[Engagements/120 Westview Place/Minions/The Rats\|The Rats]]                                                                                                                                                                                                                                                                                                                                            |
 | **Bystanders** | - [[Engagements/120 Westview Place/Bystanders/Rebecca Herbert\|Rebecca Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Paul Herbert\|Paul Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Willie Herbert\|Willie Herbert]]<br>- [[Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]                                                                                                                                                                                                                        |
 | **Materials**  | - [[Engagements/120 Westview Place/Materials/1984 Article\|1984 Article]]<br>- [[Engagements/120 Westview Place/Materials/2024 Article\|2024 Article]]<br>                                                                                                                                                                                                                                                                                                                              |
-
-
-
-
---- start-multi-column: hunters120120
-```column-settings  
-number of columns: 2  
-```
-
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Hunters**    | - [[Mythsecure-Organization/Hunters/Asha\|Asha]] the Flake<br>- [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] the Spooky<br>- [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] the Mundane<br>- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] the Divine - _Partial_<br>- [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] the Professional - _Partial_ |
-| **Locations**  | - [[Engagements/120 Westview Place/Locations/Keefe House\|Keefe House]]<br>- [[Engagements/120 Westview Place/Locations/Shaftsbury\|Shaftsbury]], VT<br>- A local diner                                                                                                                                                                                                                                                                                                                 |
-
-
---- end-column ---
-
-|                |                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Hunters**    | - [[Mythsecure-Organization/Hunters/Asha\|Asha]] the Flake<br>- [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] the Spooky<br>- [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] the Mundane<br>- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] the Divine - _Partial_<br>- [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] the Professional - _Partial_ |
-| **Locations**  | - [[Engagements/120 Westview Place/Locations/Keefe House\|Keefe House]]<br>- [[Engagements/120 Westview Place/Locations/Shaftsbury\|Shaftsbury]], VT<br>- A local diner                                                                                                                                                                                                                                                                                                                 |
-
-
---- end-multi-column
-
-
-
 
 
 ---
