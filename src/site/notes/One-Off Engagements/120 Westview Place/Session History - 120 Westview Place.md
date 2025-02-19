@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-off-engagements/120-westview-place/session-history-120-westview-place/","pinned":true,"tags":["session-history","120WestviewPlace","one-off"],"created":"2024-08-22T12:55:06.000-04:00","updated":"2025-02-19T08:28:33.535-05:00"}
+{"dg-publish":true,"permalink":"/one-off-engagements/120-westview-place/session-history-120-westview-place/","pinned":true,"tags":["session-history","120WestviewPlace","one-off"],"created":"2024-08-22T12:55:06.000-04:00","updated":"2025-02-19T11:18:29.970-05:00"}
 ---
 
 
@@ -29,7 +29,7 @@ Date: 23 May 2024
 > [!Warning] Non-Canon Session
 > The events of [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]] and [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] were not part of a wider campaign, and therefore exist in isolation. As these two sessions existed prior to the start of a larger campaign, they are effectively non-canon. 
 > 
->  Some character development ideas and the character's level will carry forward, but not Luck. See [[Campaign/Campaign Details\|../../Campaign/Campaign Details]] for more information.
+>  Some character development ideas and the character's level will carry forward, but not Luck. See [[Campaign/Campaign Details\|Campaign Details]] for more information.
 
 ## Info Table
 
@@ -105,7 +105,7 @@ On the side of the room with the staircase stood Dullface, Chonko and Asha. Sepa
 
 The hunters then noticed the specter of [[One-Off Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]] at the top of the stairs. Everywhere her eyes went, so did the gaze of the rats. Dullface charged to attack with his nunchucks, but they passed harmlessly through Colleen, who then caused it to fly out of Dullface's hands and strike him in the face before falling to the bottom of stairs.
 
-Colleen then flew down the stairs towards Lady Squatch and the Herberts, but Asha stepped in by picking the ornate mirror from the wall and throwing it into Colleen's path. Colleen stopped to look at her reflection, but then shattered the mirror - spraying glass shards into the air. Shards hit Asha, as well as the rat swarm. This caused the rats to flee, scattering into holes in the floor, walls, and other rooms - many fleeing down the stairs to the basement.
+Colleen then flew down the stairs towards Lady Squatch and the Herberts, but Asha stepped in by picking up the ornate mirror from the wall and throwing it into Colleen's path. Colleen stopped to look at her reflection, but then shattered the mirror - spraying glass shards into the air. Shards hit Asha, as well as the rat swarm. This caused the rats to flee, scattering into holes in the floor, walls, and other rooms - many fleeing down the stairs to the basement.
 
 Lady Squatch then grabbed the Herbert family and attempted to teleport them to safety, but instead mysteriously vanished - not to return for the rest of the session (_Player departure_). With Colleen distracted by the mirror, the Herberts fled to the garage with the ghost hot on their heels.
 
@@ -134,7 +134,7 @@ Unfortunately, when Asha asked them for help about how to deal with the trouble 
 
 In the basement, [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] noticed that the already quiet squeaking of the rats was even quieter now that the other hunters had gone upstairs. He also remembered that in the living room there was a fireplace with tools possibly made of iron.
 
-Dullface recklessly left the family alone to try and grab a fireplace poker. However, like before, the poker flew into the air and straight at Dullface's head. Unable to dodge or deflect it, Dullface is forced to choose between taking a hit from the blunt end or the slightly pointed end of the tool. After being struck by the blunt handle, Dullface cried out in pain and was knocked unconscious. Asha heard Dullface's cry and ran downstairs to help, leaving Chonko in the attic.
+Dullface recklessly left the family alone to try and grab a fireplace poker. However, like before, the poker flew into the air and straight at Dullface's head. Unable to dodge or deflect it, Dullface was forced to choose between taking a hit from the blunt end or the slightly pointed end of the tool. After being struck by the blunt handle, Dullface cried out in pain and was knocked unconscious. Asha heard Dullface's cry and ran downstairs to help, leaving Chonko in the attic.
 
 Chonko again attempted to use _the sight_ in the attic, and discovered the far more docile ghost of [[One-Off Engagements/120 Westview Place/Bystanders/Damian Keefe\|Damian Keefe]]. Damian revealed that he had killed Colleen, and that "no part of her has ever left this house."
 
@@ -163,7 +163,7 @@ With the haft of the scythe, Chonko smashed another cask. Instead of brandy, thi
 
 The hunters decide to lift the final cask and smash it over the cask with the bones, splashing brandy into the ground, as well as scattering alcohol-soaked wood around the remains. With a flick of his wrist, Dullface tossed his "cigarette" lighter to Asha, who ignited the puddle of brandy.
 
-The house shook and the largest swarm of rats yet erupted from everywhere, causing the hunters and Herberts to flee towards the front door. With Dullface at the lead and rats at their feet, they flung open the door to the outside. Colleen's spirit flew out behind them off into the sky.
+The house shook and the largest swarm of rats yet erupted from everywhere, causing the hunters and Herberts to flee towards the front door. With Dullface at the lead and rats at their feet, they flung open the door to the outside. Colleen's spirit flew out behind them off into the sky - free!
 
 ---
 
@@ -183,13 +183,15 @@ The house shook and the largest swarm of rats yet erupted from everywhere, causi
 ## Consequences
 
 - [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s net friends/followers believe that her account has been hacked. This may have future implications if they believe her integrity has also been compromised. 
+	- **Forgiven, as described in [[Campaign/Campaign Details\|Campaign Details]]**
 - [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] found the idea of [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s belief system to be very appealing
 - [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] utilized a luck point, and the next time he _deals with the Agency_ there will be a lot of red tape.
+	- **Forgiven, as described in [[Campaign/Campaign Details\|Campaign Details]]**
 - [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] learned that _the sight_ may allow her to view "other side." This "other side" is not strictly the other side of death, but perhaps it is connected to her otherworld alter-ego, [[Others/Koncho\|Koncho]].
 - [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] established that teleportation does not literally require angel wings, but vanished at a very inopportune moment - arousing additional suspicion from [[Mythsecure-Organization/Hunters/Dullface\|Dullface]].
 
 >[!info] Keeper's Note:
-> The penalties incurred by [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s Net Friends and [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]]'s red tape do not carry over into the start of the campaign described in [[Campaign/Campaign Details\|../../Campaign/Campaign Details]]
+> The penalties incurred by [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s Net Friends and [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]]'s red tape do not carry over into the start of the campaign described in [[Campaign/Campaign Details\|Campaign Details]]
 
 ---
 ## Reflections
@@ -197,4 +199,4 @@ The house shook and the largest swarm of rats yet erupted from everywhere, causi
 
 Speaking as the ghost of Damian, the Keeper did not provide very clear information to the hunters about how Colleen's remains were related to her being trapped in the house. The hunters figured it out anyway.
 
----
+

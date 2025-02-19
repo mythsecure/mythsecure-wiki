@@ -1,97 +1,152 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","created":"2024-08-16T16:52:26.000-04:00","updated":"2025-01-08T23:44:22.033-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","tags":["hunter"],"created":"2024-08-16T16:52:26.000-04:00","updated":"2025-02-19T11:25:55.358-05:00"}
 ---
+
 
 # Dullface
 
-| Name     | Playbook    | Pronouns |
-| -------- | ----------- | -------- |
-| Dullface | The Mundane | he/him   |
+## Info Table
 
-Middle aged, scruffy face, street clothes
-
-# Ratings
-
-| Charm | Cool | Sharp | Tough | Weird |
-| ----- | ---- | ----- | ----- | ----- |
-| +2    | 0    | +1    | +1    | _-1_  |
-
-# Status
-## Harm and Luck
-If harm reaches 4 or more, mark unstable
-
-- [ ] Unstable
-
-| Current Harm | Dead  |
-| ------------ | ----- |
-| 5            | **8** |
-
-| Current Luck | Doomed |
-| ------------ | ------ |
-| 0            | **7**  |
-
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| **Name**           | Dullface                                                     |
+| **Playbook**       | The Mundane                                                  |
+| **Pronouns**       | he/him                                                       |
+| **Level**          | 2                                                            |
+| **XP/5**           | 0                                                            |
+| **Stats**          | Charm: +2<br>Cool: 0<br>Sharp: +1<br>Tough:  +1<br>Weird: -1 |
+| **Luck Spent / 7** | 0                                                            |
 **Mundane special:** When you spend a point of Luck, you’ll find something weird—maybe even useful!
 
-## Experience
+---
+## Mysteries
+The earliest mysteries are at the top of this list.
 
-Level: 1
+| Mystery                                                                                                            | Results                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]]          | [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] helped the hunters free [[One-Off Engagements/120 Westview Place/Monster/Colleen Keefe\|Colleen Keefe]], but was very suspicious of the fact that [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] disappeared during the heat of battle.<br><br>When Dullface learned about [[Mythsecure-Organization/Hunters/Asha\|Asha]]'s cult, he found it very appealing. |
+| [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] | [[Mythsecure-Organization/Hunters/Dullface\|Dullface]] began using his skateboard as a weapon. <br><br>Although suspicious, Dullface participated in the ritual to enchant [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]]'s whip with water essence. <br>                                                                                                                            |
 
-| Current XP | Levels Up |
-| ---------- | --------- |
-| 3          | 5         |
 
-Level up after filling in the 5th box
+---
+## Description
+
+### Appearance
+Dullface is a middle aged man with a scruffy face and street clothes. He likes to skateboard and his "cigarettes" smell kind of funny.
+
+### Development
+#### Detail
 
 
 ---
 
-# Moves
+## Social Interactions
 
-**Let’s Get Out Of Here!**: If you can protect someone by telling them what to do, or by leading them out, roll +Charm instead of +Tough.
+### With Other Hunters
 
-**The Power of Heart:** When fighting a monster, if you help someone, don’t roll +Cool. You automatically help as though you’d rolled a 10.
+| Hunter                                                               | Relationship Details                                                                                                                                                                     |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Mythsecure-Organization/Hunters/Asha\|Asha]]                 | Dullface finds Asha's "cult" very appealing.                                                                                                                                             |
+| [[Mythsecure-Organization/Hunters/Chonko\|Chonko]]             | Dullface is suspicious of [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]], and fears she will corrupt [[Mythsecure-Organization/Hunters/Chonko\|Chonko]] with "voodoo magic."                                                                                   |
+| [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] | Dullface is very suspicious of [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]], and is worried that one day she will show that she is actually "just like all the other monsters" and Mythsecure will need to hunt her. |
+| [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]]       | Coworkers                                                                                                                                                                                |
 
-**What Could Go Wrong?**: Whenever you charge into immediate danger without hedging your bets, hold 2. You may spend your hold to: • Inflict +1 harm. • Reduce someone’s harm suffered by 1. • Take +2 forward on an act under pressure roll
+### With Others
 
-# Alternate Weird Move
-**Telekinesis**
+| Person | Relationship Details |
+| ------ | -------------------- |
+|        |                      |
+|        |                      |
+|        |                      |
+|        |                      |
+|        |                      |
 
-When you fling something with your mind, roll +Weird: 
-• On a 10+, you move it. Choose two options and mark 1-harm.
-• On a 7-9, you move it but it hurts. Choose one option and mark 2-harm. 
-• On a miss, something goes horribly wrong. 
-
-By default you can move something smaller than a person. You don’t have much control, and you can’t move it strongly enough to hurt anything. 
-
-Telekinesis options (anything not picked is not true): 
-• Something is held fast. 
-• Something is hurt (2-harm smash). 
-• Something catches fire. 
-• You can fling something bigger than a person. • You keep it basically under your control.
-• You suffer 1 less harm. 
-
-advanced: When you advance your telekinesis move, add this:
-• On a 12+, choose three options. You may also choose from these advanced options:
-
-• Something explodes (3-harm close fire area messy) 
-• Something implodes (3-harm close crush) • Lots of stuff is flying under your control. 
-• You have perfect and precise control over exactly what happens
-
-
-# Gear
-
-- Cricket bat (2-harm hand innocuous messy)
-- Nunchucks (2-harm hand area)
-
-Means of Transport:
-- Skateboard
 
 
 --- 
-# Storyline
 
+## Moves
+
+- **Let’s Get Out Of Here!**: *If you can protect someone by telling them what to do, or by leading them out, roll +Charm instead of +Tough.*
+
+- **The Power of Heart:** *When fighting a monster, if you help someone, don’t roll +Cool. You automatically help as though you’d rolled a 10.*
+
+- **What Could Go Wrong?**: *Whenever you charge into immediate danger without hedging your bets, hold 2. You may spend your hold to:*
+	- *Inflict +1 harm.* 
+	- *Reduce someone’s harm suffered by 1.* 
+	-  *Take +2 forward on an act under pressure roll*
+
+- **Oops!:** *If you want to stumble across something important, tell the Keeper. You will find something important and useful, although not necessarily related to your immediate problems.*
+
+### Alternate Weird Move - Telekinesis
+
+*When you fling something with your mind, roll +Weird:* 
+- *On a 10+, you move it. Choose two options and mark 1-harm.*
+- *On a 7-9, you move it but it hurts. Choose one option and mark 2-harm.* 
+- *On a miss, something goes horribly wrong.* 
+
+*By default you can move something smaller than a person. You don’t have much control, and you can’t move it strongly enough to hurt anything.* 
+
+*Telekinesis options (anything not picked is not true):* 
+- *Something is held fast.* 
+- *Something is hurt (2-harm smash).* 
+- *Something catches fire.* 
+ - *You can fling something bigger than a person.*
+ - *You keep it basically under your control.*
+- *You suffer 1 less harm.* 
+
+*Advanced: When you advance your telekinesis move, add this:*
+- *On a 12+, choose three options. You may also choose from these advanced options:*
+
+	- *Something explodes (3-harm close fire area messy)* 
+	- *Something implodes (3-harm close crush) • Lots of stuff is flying under your control.* 
+	- *You have perfect and precise control over exactly what happens*
+
+
+---
+## Gear
+
+**Normal Weapons**
+- Skateboard: 2-harm, hand, innocuous, messy
+- Nunchucks: 2-harm, hand, area, wood
+
+**Means of Transport**: Skateboard
 
 
 ---
 
-# History
+## Leveling 
+
+### History
+
+| Level Gained | Detail                                                         |
+| ------------ | -------------------------------------------------------------- |
+| 2            | Gained the **Oops!** ability by _taking another Mundane move_. |
+|              |                                                                |
+
+### Options
+#### Basic Options
+
+- [ ] Get +1 Charm, max +3
+- [ ] Get +1 Cool, max +2
+- [ ] Get +1 Sharp, max +2
+- [ ] Get +1 Tough, max +2
+- [x] Take another Mundane move 
+	- Taken at level 2
+- [ ] Take another Mundane move
+- [ ] Get back one used Luck point
+- [ ] Get back one used Luck point
+- [ ] Take a move from another playbook
+- [ ] Take a move from another playbook
+
+#### Advanced Options
+After you have leveled up five times, you qualify for the advanced improvements below: 
+
+- [ ] Get +1 to any rating, max +3.
+- [ ] Change this hunter to a new type.
+- [ ] Create a second hunter to play as well as this one.
+- [ ] Mark two of the basic moves as advanced.
+- [ ] Mark another two of the basic moves as advanced.
+- [ ] Retire this hunter to safety.
+- [ ] Get back one used Luck point.
+- [ ] Get back one used Luck point.

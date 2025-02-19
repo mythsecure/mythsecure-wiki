@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-off-engagements/200-central-park-west/session-history-200-central-park-west/","pinned":true,"tags":["session-history","one-off"],"created":"2024-08-22T12:55:34.000-04:00","updated":"2025-02-19T08:29:03.800-05:00"}
+{"dg-publish":true,"permalink":"/one-off-engagements/200-central-park-west/session-history-200-central-park-west/","pinned":true,"tags":["session-history","one-off"],"created":"2024-08-22T12:55:34.000-04:00","updated":"2025-02-19T11:21:54.743-05:00"}
 ---
 
 
@@ -26,14 +26,12 @@ Date: 27 June 2024
 > - [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West#End of Session Check-In\|End of Session Check-In]]
 > - [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West#Notes for the Future\|Notes for the Future]]
 
-
-
 ---
 
 > [!Warning] Non-Canon Session
-> The events of [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]] and [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|Session History - 200 Central Park West]] were not part of a wider campaign, and therefore exist in isolation. As these two sessions existed prior to the start of a larger campaign, they are effectively non-canon. 
+> The events of [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]] and [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] were not part of a wider campaign, and therefore exist in isolation. As these two sessions existed prior to the start of a larger campaign, they are effectively non-canon. 
 > 
->  Some character development ideas and the character's level will carry forward, but not Luck. See [[Campaign/Campaign Details\|../../Campaign/Campaign Details]] for more information.
+>  Some character development ideas and the character's level will carry forward, but not Luck. See [[Campaign/Campaign Details\|Campaign Details]] for more information.
 
 >[!info]
 > Keeper's Note: This session did not run smoothly as the Keeper tried to do too much. The character development portions of the story is canon, but due to the sloppy setup the Keeper evened out the playing field and made it something the players would get through - even if we had to bend the rules a little bit. 
@@ -77,28 +75,28 @@ Dullface rides around on a skateboard, and also carries a blunt weapon. The play
 
 #### Social Development
 
-- [Lady Squatch](Lady%20Squatch.md) is trying to keep [Chonko](Chonko.md) "pure"
-- [Chonko](Chonko.md) hopes that [Lady Squatch](Lady%20Squatch.md) can help her control her powers
-- [Dullface](Dullface.md) is suspicious of [Lady Squatch](Lady%20Squatch.md)'s intentions and worries that MS will hunt her someday
+- [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]] is trying to keep [Chonko](Chonko.md) "pure"
+- [Chonko](Chonko.md) hopes that [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]]can help her control her powers
+- [Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) is suspicious of [[Mythsecure-Organization/Hunters/Lady Squatch\|Lady Squatch]]'s intentions and worries that Mythsecure will hunt her someday
 
 Chonko explained that the dark bargain that allows her to access otherworldliness works both ways. The other worlds can reach across and grab from her.
 
-Lady Squatch comes from another world herself, and wants to prepare Chonko for dealing with it. They decide they are going to regular prayer/affirmation to help keep Chonko pure and anchored to this reality.
+Lady Squatch comes from another world herself, and wants to prepare Chonko for dealing with it. They decide they are going to engage in regular prayer/affirmation to help keep Chonko pure and anchored to this reality.
 
 Dullface worries that the meditations/affirmations are secretly a way to steal Chonko's soul with voodoo black magic. Dullface distrusts Lady Squatch even more as a result of the time she spends with Chonko.
 
 ### Teaser/Background Information/Debrief
 
-The hunters met at the office near Union Square, Manhattan. During their debrief, engagement manager [Daniel Evers](Daniel%20Evers) informed them about the situation with suspicious deaths at the American Museum of Natural History at 200 Central Park West. Daniel provided them with the [Police Report](Materials/Police%20Report.md):
+The hunters met at the office near Union Square, Manhattan. During their debrief, engagement manager [Daniel Evers](Daniel%20Evers) informed them about the situation with suspicious deaths at the American Museum of Natural History at 200 Central Park West. Daniel provided them with a [Police Report](Materials/Police%20Report.md).
 
 
-[Daniel Evers](Daniel%20Evers) explained that the museum is closed and a police investigation is likely already underway. A [[One-Off Engagements/200 Central Park West/Bystanders/Dr. Rosana Lombardo\|Dr. Rosana Lombardo]] has called them to attend as private investigators, and requested that they meet at the main entrance at Theodore Roosevelt Rotunda on the 2nd floor.
+[Daniel Evers](Daniel%20Evers) explained that the museum is closed and a police investigation was likely already underway. A [[One-Off Engagements/200 Central Park West/Bystanders/Dr. Rosana Lombardo\|Dr. Rosana Lombardo]] had called them to attend as private investigators, and requested that they meet at the main entrance at Theodore Roosevelt Rotunda on the 2nd floor.
 
 Due to the fact that they were going to take the subway, Daniel advised that they do not have their weapons obviously displayed.
 
 - [Chonko](Chonko.md) brought a shotgun and a big knife in a ratty old gym bag
 - [Lady Squatch](Lady%20Squatch.md) brought the razor whip, and stashed it in the magical suit pocket.
-- [Dullface](Dullface.md) brought his nunchucks and skateboard
+- [Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) brought his nunchucks and skateboard
 
 ### Arrival at the Museum
 
@@ -110,18 +108,17 @@ Inside the front door was an argument in progress with:
 - [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md): A stocky, bald white middle-aged man in a cheap suit with a cup of coffee. He was average height, but about as wide as he is tall.
 - [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md): a museum biologist who stood a head taller than Det. Sanders and wass built like a shot put athlete.
 
-As the hunters approached with [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md), Detective Sanders quietly turned to Dr. Harrison and says _"Look here, Man-hands, there is something here you're not telling me. If you don't cooperate I can get some uniforms in here to help persuade you by force._" Dr. Harrison did not back down and replies, _"Try me, Pig. I don't want to, but just know that I could roll your fat ass down those marble stairs with one hand tied behind my back."_
+As the hunters approached with [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md), Detective Sanders quietly turned to Dr. Harrison and said _"Look here, Man-hands, there is something here you're not telling me. If you don't cooperate I can get some uniforms in here to help persuade you by force._" Dr. Harrison did not back down and replied, _"Try me, Pig. I don't want to, but just know that I could roll your fat ass down those marble stairs with one hand tied behind my back."_
 
-After introducing themselves and a brief conversation, it becomes clear that neither [Everett Cobbs](Bystanders/Everett%20Cobbs.md)  or [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) want the hunters around. [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md) is able to calmly but firmly convince Chris to allow them in, albeit reluctantly. [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) is at first suspicious, but also respected [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md)'s decision to welcome the hunters.
+After introducing themselves and a brief conversation, it became clear that neither [Everett Cobbs](Bystanders/Everett%20Cobbs.md)  or [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) wanted the hunters around. [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md) iwas able to calmly but firmly convince Mr. Cobbs to allow them in, albeit reluctantly. [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) was at first suspicious, but also respected [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md)'s decision to welcome the hunters.
 
-Dr. Lombardo explained that the victims were part of an anthropological expedition to a remote part of inland Asia, somewhere along the Russian-Mongolian border. There was a bureaucratic snafu (When explaining this, Dr. Lombardo glanced at [Everett Cobbs](Bystanders/Everett%20Cobbs.md)) that resulted in [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md)'s attendance on the trip in addition to Dr. Harris Sun. 
+Dr. Lombardo explained that the victims were part of an anthropological expedition to a remote part of inland Asia, somewhere along the Russian-Mongolian border. There was a bureaucratic snafu (When explaining this, Dr. Lombardo glanced at [Everett Cobbs](Bystanders/Everett%20Cobbs.md)) that resulted in [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md)'s attendance on the trip in addition [[One-Off Engagements/200 Central Park West/Bystanders/Deceased Researchers\|Dr. Harris Sun]].
 
-[Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) explained that they made the best use of the trip they could, but did not spend time with the anthropologists as she was a biologist. [Lady Squatch](Lady%20Squatch.md) tried to _investigate a mystery_ on [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md), but it failed. As a result, [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) began to suspect that [Lady Squatch](Lady%20Squatch.md) might not be a regular person.
+[Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) explained that she made the best use of the trip she could, but did not spend time with the anthropologists as she was a biologist. [Lady Squatch](Lady%20Squatch.md) tried to _investigate a mystery_ on [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md), but it failed. As a result, [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) began to suspect that [Lady Squatch](Lady%20Squatch.md) might not be a regular person.
 
-[Dullface](Dullface.md) tried to charm [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) into revealing more information, but it failed. Dr. Harrison interpreted the attempt as an unwanted romantic advance and firmly told Dullface that she was not interested.
+[Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) tried to charm [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) into revealing more information, but it failed. Dr. Harrison interpreted the attempt as an unwanted romantic advance and firmly told Dullface that she was not interested.
 
 Dr. Lombardo lead the hunters out of the Theodore Roosevelt rotunda towards Akeley Hall of African mammals in the direction of the room where the researchers were found dead.
-
 
 ### Akeley Hall of African Mammals
 
@@ -134,7 +131,7 @@ The worm was about 1 1/2 feet long, and blood red like a salami. It had no face,
 
 Chonko leaned forward to start to attack the worm, but [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) put a hand on Chonko's shoulder to stop her and whispered _"Wait!"_
 
-[Dullface](Dullface.md) ran in to attack the worm, looping the rope of his nunchucks around it and pulling tight to cut into its skin. The worm was injured, but the smell of ozone filled the room and the worm delivered a powerful electric shock that stunned Dullface - causing him to drop the worm and the nunchucks. 
+[Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) ran in to attack the worm, looping the rope of his nunchucks around it and pulling tight to cut into its skin. The worm was injured, but the smell of ozone filled the room and the worm delivered a powerful electric shock that stunned Dullface - causing him to drop the worm and the nunchucks. 
 
 With two more rubbery slaps, two other worms fell out from the elephant exhibit onto the floor. One slithered incredibly fast towards [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md), and [Lady Squatch](Lady%20Squatch.md) attempted to _protect_ her. Lady Squatch failed, tripping as the worm leapt off of her shoulderpads and onto Lombardo's arm - sinking it's teeth deeply into her skin.
 
@@ -163,7 +160,7 @@ The hunters and civilians determined that they needed to take [Dr. Rosana Lombar
 
 After discussing the worms with [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md), and [Dr. Rosana Lombardo](Bystanders/Dr.%20Rosana%20Lombardo.md), the hunters realized that the worms are adapted to hyperarid environments and found water poisonous. This is why they were able to take a bullet without stopping but fled when splashed with lukewarm coffee. The fact they were able to wash Dr. Lombardo's wounds with water also proved that the worm venom could be flushed out with water, but if not it would continue to harm them.
 
-The hunters raided the break room fridge, grabbing canned seltzers like they were grenades and rolling the water cooler on [Dullface](Dullface.md)'s skateboard. They aimed to travel to the site where the bodies were discovered with [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) and [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md).
+The hunters raided the break room fridge, grabbing canned seltzers like they were grenades and rolling the water cooler on [Dullface](../../Mythsecure-Organization/Hunters/Dullface.md)'s skateboard. They aimed to travel to the site where the bodies were discovered with [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md) and [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md).
 
 On the way to the scene, the hunters were ambushed by two worms on the 3rd floor Collections Core area. The hunters were able to wound one of the worms, which fled out of the room, chased by [Detective Edgar Sanders](Bystanders/Detective%20Edgar%20Sanders.md).  
 
@@ -175,7 +172,7 @@ However, moments later, a triumphant [Detective Edgar Sanders](Bystanders/Detect
 ### The Final Worm
 Wounded and running out of canned soda, the hunters set out after the final worm. [Chonko](Chonko.md) _tuned in_ to the final worm, and located it a floor below them near the Asian Mammals area.
 
-The hunters travelled to the location, but could not find the worm. [Lady Squatch](Lady%20Squatch.md) and [Dullface](Dullface.md) split off to search the Asian Peoples room, while [Chonko](Chonko.md) and [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) entered the Asian Mammals room.
+The hunters travelled to the location, but could not find the worm. [Lady Squatch](Lady%20Squatch.md) and [Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) split off to search the Asian Peoples room, while [Chonko](Chonko.md) and [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) entered the Asian Mammals room.
 
 With a strong whiff of ozone, the lights in the Asian Mammals room went out, bathing [Chonko](Chonko.md) and [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) in darkness. [Chonko](Chonko.md) heard the sound of a fleshy plop, from across the room [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) cried out _"Just because I don't want to kill these things doesn't give you the right to put your hands on me..._"
 
@@ -185,7 +182,7 @@ Acting quickly, [Chonko](Chonko.md) popped open a seltzer and dumped it on [Dr. 
 
 With [Chonko](Chonko.md) injured and unable to fight user her weapons, the hunters decided the best course of action was to enable [Lady Squatch](Lady%20Squatch.md) to fight and defeat the worms. Despite [Lady Squatch](Lady%20Squatch.md)'s efforts to keep [Chonko](Chonko.md) "pure" and away from the other realities, they agreed that [Chonko](Chonko.md) would _use magic_ to enchant [Lady Squatch](Lady%20Squatch.md)'s razor whip and imbue it with water essence.
 
-However, to perform the spell required the assistance of the caster and three willing participants. [Lady Squatch](Lady%20Squatch.md) and [Dullface](Dullface.md) were up for it, but the only other person in the area was the reluctant [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md). 
+However, to perform the spell required the assistance of the caster and three willing participants. [Lady Squatch](Lady%20Squatch.md) and [Dullface](../../Mythsecure-Organization/Hunters/Dullface.md) were up for it, but the only other person in the area was the reluctant [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md). 
 
 [Lady Squatch](Lady%20Squatch.md) attempted to persuade [Dr. Kate Harrison](Minions/Dr.%20Kate%20Harrison.md) that it was necessary to kill the worm in order to save [Chonko](Chonko.md)'s life and the lives of others, and even gave a little wink that made the Doctor realize that perhaps [Lady Squatch](Lady%20Squatch.md) might be a biological discovery in her own right - and way more friendly.
 
