@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-19T11:18:05.736-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-19T12:16:04.263-05:00"}
 ---
 
 # Asha
@@ -55,7 +55,14 @@ This was evident when Asha contacted her followers to ask for help with [[One-Of
 | [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]]    | Coworkers                                                                 |
 
 ### With Others
-N/A
+
+| Person | Relationship Details |
+| ------ | -------------------- |
+|        |                      |
+|        |                      |
+|        |                      |
+|        |                      |
+|        |                      |
 
 
 
