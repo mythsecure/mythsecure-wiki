@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/campaign-details/","pinned":true,"tags":["encyclopedia-page"],"created":"2025-02-18T23:21:28.058-05:00","updated":"2025-02-19T08:42:43.123-05:00"}
+{"dg-publish":true,"permalink":"/campaign/campaign-details/","pinned":true,"tags":["encyclopedia-page"],"created":"2025-02-18T23:21:28.058-05:00","updated":"2025-02-19T08:59:06.836-05:00"}
 ---
 
 ## Overview
@@ -21,3 +21,6 @@ Character development ideas and the hunters' levels at the time of the campaign 
 - **Penalties Forgiven:** During the investigation of [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]], [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] used a Luck point and incurred a penalty in the form of bureaucratic red tape. [[Mythsecure-Organization/Hunters/Asha\|Asha]] failed a _net friends_ roll, and her followers believed her account had been hacked.
 	- **For the campaign, these penalties are erased.**
 
+
+### Character Development
+In the campaign, we will create additional focus on how the hunters interact with each other as well as their own personality traits and flaws.
