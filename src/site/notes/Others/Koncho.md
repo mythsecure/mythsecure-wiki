@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/others/koncho/","created":"2025-01-06T23:10:46.630-05:00","updated":"2025-01-09T22:24:46.198-05:00"}
+{"dg-publish":true,"permalink":"/others/koncho/","tags":["other-entity"],"created":"2025-01-06T23:10:46.630-05:00","updated":"2025-02-18T23:20:02.124-05:00"}
 ---
-
 
 
 # Koncho

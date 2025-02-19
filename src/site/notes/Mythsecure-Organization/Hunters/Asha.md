@@ -1,28 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","created":"2024-05-28T11:32:02.000-04:00","updated":"2025-01-08T23:50:04.968-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","created":"2024-05-28T11:32:02.000-04:00","updated":"2025-01-10T15:40:01.544-05:00"}
 ---
 
 
 # Asha
 
-| Name | Playbook  | Pronouns |
-| ---- | --------- | -------- |
-| Asha | The Flake | she/her  |
+
+| Name | Playbook  | Pronouns | **Level** |
+| :--- | :-------: | :------: | --------: |
+| Asha | The Flake | she/her  |     **1** |
+|      |           |          |           |
 
 | Charm | Cool | Sharp | Tough | Weird |
-| ----- | ---- | ----- | ----- | ----- |
-| _-1_  | +1   | 0     | +1    | +2    |
+| :---: | :--: | :---: | :---: | :---: |
+| _-1_  |  +1  |   0   |  +1   |  +2   |
+
+| Luck <br>Spent | Doomed |
+| -------------- | -----: |
+| 0              |  **7** |
+
+
+
+
 
 
 Teenage girl, androgynous style, very tall
 
 6'1"
 
-# Ratings
 
-
-# Status
-## Harm and Luck
+## Status
+### Harm and Luck
 If harm reaches 4 or more, mark unstable
 
 - [ ] Unstable
@@ -31,10 +39,10 @@ If harm reaches 4 or more, mark unstable
 | ------------ | ----- |
 | 0            | **8** |
 
-
 | Luck Spent | Doomed |
 | ---------- | ------ |
 | 0          | **7**  |
+
 
 **Flake Special:** When you spend a point of Luck, pick an aspect of the current situation. The Keeper will tell you what other conspiracies that aspect connects to.
 
