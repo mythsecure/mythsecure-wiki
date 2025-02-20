@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","tags":["hunter"],"created":"2024-05-28T11:32:42.000-04:00","updated":"2025-02-19T11:27:01.282-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","tags":["hunter"],"created":"2024-05-28T11:32:42.000-04:00","updated":"2025-02-19T21:28:47.100-05:00"}
 ---
 
 # Chonko
@@ -48,6 +48,11 @@ Chonko's weird abilities come from a "dark bargain" she made with a version of h
 
 All of Chonko's powers come from a connection to other realities where things are different, but that connection is a two way (or infinite way) street. When the bargain works in her favor, Chonko can retrieve great power from other universes. But the other realities may reach into Chonko's (the reality of the game universe) and steal reality for themselves.
 
+##### Keeper's Note on Chonko's Magic
+While Koncho's Dark Bargain allows quite a bit of flexibility as it literally allows for an infinite number of possibilities, there should be limits to how this would play out mechanically in order to keep the game balanced.
+
+From an in universe perspective, interaction with parallel universes is "bad for reality," and therefore very disruptive. The level of "disruption" and therefore the need for additional requirements and the boundary between [[Rules/Use Magic\|Use Magic]] and a [[Rules/Weird Work\|Weird Work]] is up to the player and Keeper to discuss.
+
 
 ---
 ## Social Interactions
@@ -75,6 +80,8 @@ All of Chonko's powers come from a connection to other realities where things ar
 
 ## Moves
 
+### Playbook Moves
+
 - **The Sight:** *You can see the invisible, especially spirits and magical influences. You may communicate with (maybe even make deals with) the spirits you see, and they give you more opportunities to spot clues when you investigate a mystery.*
 
 - **Premonitions:** *At the start of each mystery, roll +Weird.* 
@@ -95,6 +102,17 @@ All of Chonko's powers come from a connection to other realities where things ar
 	- *How can I attract its attention?*
 
 
+### Company Move
+
+**Contact Mythsecure - Team Member:** When you deal with the agency while not the team's designated contact, requesting help or gear, or making excuses for a failure, ignore your Sharp stat and roll as follows:
+
+- If a hunter has a sharp value of 0, +1, +2, +3, roll _-1 (minus one)_.
+- If a hunter has negative sharp, roll _-2 (minus two)_.
+
+- On a 10+, you’re good! Your request for gear or personnel is okayed, or your slip-up goes unnoticed.
+	- On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. 
+	- On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
+
 
 ---
 ## Gear
@@ -114,7 +132,6 @@ All of Chonko's powers come from a connection to other realities where things ar
 |              |        |
 
 ### Options
-(SEE PLAYBOOK)
 
 #### Basic Options
 - [ ] Get +1 Weird, max +3
@@ -130,6 +147,7 @@ All of Chonko's powers come from a connection to other realities where things ar
 
 #### Advanced Options
 After you have leveled up five times, you qualify for the advanced improvements below: 
+
 - [ ] Get +1 to any rating, max +3.
 - [ ] Change this hunter to a new type.
 - [ ] Create a second hunter to play as well as this one.

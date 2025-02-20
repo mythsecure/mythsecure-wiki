@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-home/","pinned":true,"tags":["gardenEntry"],"created":"2024-05-28T11:29:42.000-04:00","updated":"2025-02-19T12:13:45.695-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-home/","pinned":true,"tags":["gardenEntry"],"created":"2024-05-28T11:29:42.000-04:00","updated":"2025-02-19T20:54:02.178-05:00"}
 ---
 
 
@@ -14,12 +14,16 @@ MythSecure is a weirdness consultancy firm. Spooky stuff going on? Call the prof
 ## Engagements
 Once in a while, we get a job.
 
-- [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]]
-- [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]]
+|          |                                                                                                                                                                                                                         |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| One-Offs | - [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\|120 Westview Place]]<br>- [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] |
+| Campaign | Pending (See [[Campaign/Campaign Details\|Campaign Details]])                                                                                                                                                           |
+
 
 ---
-##  Hunters:
+##  Hunters
 Our consultants are the best out there.
+They all have some variation of the [[Mythsecure-Organization/Contact Mythsecure\|Contact Mythsecure]] move.
 
 | <div style="width:100px">Hunter</div>                          | Playbook     |
 | -------------------------------------------------------------- | ------------ |

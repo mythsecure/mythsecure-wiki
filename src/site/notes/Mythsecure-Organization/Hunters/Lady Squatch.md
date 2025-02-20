@@ -1,21 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/","tags":["hunter"],"created":"2024-05-28T11:33:50.000-04:00","updated":"2025-02-19T12:12:43.383-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/","tags":["hunter"],"created":"2024-05-28T11:33:50.000-04:00","updated":"2025-02-19T21:16:29.264-05:00"}
 ---
 
 
-# Squatch2
+# Lady Squatch
 
 ## Info Table
 
-|                    |                                                                   |
-| ------------------ | ----------------------------------------------------------------- |
-| **Name**           | Lady Squatch                                                      |
-| **Playbook**       | The Divine                                                        |
-| **Pronouns**       | She/It                                                            |
-| **Level**          | 2                                                                 |
-| **XP/5**           | 0                                                                 |
-| **Stats**          | Charm: _-1_<br>Cool:  +2<br>Sharp:  _-1_<br>Tough: +2<br>Weird: 0 |
-| **Luck Spent / 7** | 0                                                                 |
+|                         |                                                                   |
+| ----------------------- | ----------------------------------------------------------------- |
+| **Name**                | Lady Squatch                                                      |
+| **Playbook**            | The Divine                                                        |
+| **Pronouns**            | She/It                                                            |
+| **Level**               | 2                                                                 |
+| **XP/5**                | 0                                                                 |
+| **Stats**               | Charm: _-1_<br>Cool:  +2<br>Sharp:  _-1_<br>Tough: +2<br>Weird: 0 |
+| **Luck Spent / 7**      | 0                                                                 |
+
+
 **Divine special:** When you spend a point of Luck, you get word your Mission requires something difficult that must be done. By you. Urgently.
 
 
@@ -23,10 +25,10 @@
 ## Mysteries
 The earliest mysteries are at the top of this list.
 
-| Mystery                                                                                                            | Results |
-| ------------------------------------------------------------------------------------------------------------------ | ------- |
-| [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\| 120 Westview Place]]         |         |
-| [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] |         |
+| Mystery                                                                                                            | Results                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[One-Off Engagements/120 Westview Place/Session History - 120 Westview Place\| 120 Westview Place]]         | Lady Squatch was present for the start of the mystery, but failed *Angel Wings* attempt caused them to vanish during the heat of battle. _(Player Departure)_ |
+| [[One-Off Engagements/200 Central Park West/Session History - 200 Central Park West\|200 Central Park West]] | She was exposed to professional scientists as an obvious Sasquatch, but only one of them found that interesting                                               |
 
 
 ---
@@ -57,7 +59,7 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 | -------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [[Mythsecure-Organization/Hunters/Asha\|Asha]]           | Coworker                                                                    |
 | [[Mythsecure-Organization/Hunters/Chonko\|Chonko]]       | Sworn to keep Chonko "pure."                                                |
-| [[Mythsecure-Organization/Hunters/Dullface\|Dullface]]   | Lady Squatch has no quarral with Dullface, but Dullface does not trust her. |
+| [[Mythsecure-Organization/Hunters/Dullface\|Dullface]]   | Lady Squatch has no quarrel with Dullface, but Dullface does not trust her. |
 | [[Mythsecure-Organization/Hunters/Mr. Miata\|Mr. Miata]] | Coworker                                                                    |
 
 ### With Others
@@ -73,8 +75,9 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 
 
 --- 
-
 ## Moves
+
+### Playbook Moves
 
 - **Angel Wings**: *You can go instantly to anywhere you’ve visited before, or to a person you know well. When you carry one or two people with you, roll +Weird.*
 	- *On a 10+ you all go where you wanted.* 
@@ -88,21 +91,33 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 
 ### Alternate Weird Move - Illuminated
 
+>[!warning]
+> An alternate weird move means the hunter cannot [[Rules/Use Magic\|Use Magic]]. However, they can still attempt a [[Rules/Weird Work\|Weird Work]].
+
 *When you telepathically ask the Secret Masters for aid, roll +Weird:*
 - *On a 10+, the Secret Masters reveal a key fact, clue, or technique that will help you.*
 - *On a 7-9, the Secret Masters need you to complete a task for them. Once it is done, they reveal a key fact, clue, or technique that will help you.* 
 - *On a miss, the Secret Masters’ reply is terrible, garbled, or somehow dangerously wrong.* 
 - *Advanced: On a 12+, the Secret Masters reveal a key fact, clue, or technique that will help you. You may ask one follow-up question that the Keeper will answer honestly*
 
+### Company Move
+**Contact Mythsecure - Team Member**: When you deal with the agency while not the team's designated contact, requesting help or gear, or making excuses for a failure, ignore your Sharp stat and roll as follows:
+
+- If a hunter has a sharp value of 0, +1, +2, +3, roll _-1 (minus one)_.
+- If a hunter has negative sharp, roll _-2 (minus two)_.
+
+- On a 10+, you’re good! Your request for gear or personnel is okayed, or your slip-up goes unnoticed.
+	- On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. 
+	- On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
+
 
 ---
 ## Gear
 
 **Normal Weapons**
-- Razor whip: 3-harm, hand, area, messy, holy, water essence
+- Razor whip: 3-harm, hand, area, messy, holy
 
-**Hidden Weapons**
-- weapon: tags
+
 
 ---
 
@@ -139,6 +154,4 @@ After you have leveled up five times, you qualify for the advanced improvements 
 - [ ] Mark another two of the basic moves as advanced.
 - [ ] Retire this hunter to safety.
 - [ ] Erase one used Luck mark from your playbook.
-- [ ] Change your mission. Select a different mission
-from the normal options, or (with the Keeper’s
-agreement) a new mission of your creation.
+- [ ] Change your mission. Select a different mission from the normal options, or (with the Keeper’s agreement) a new mission of your creation.

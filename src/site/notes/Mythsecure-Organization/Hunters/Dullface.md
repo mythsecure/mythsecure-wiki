@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","tags":["hunter"],"created":"2024-08-16T16:52:26.000-04:00","updated":"2025-02-19T11:25:55.358-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","tags":["hunter"],"created":"2024-08-16T16:52:26.000-04:00","updated":"2025-02-19T21:09:50.075-05:00"}
 ---
 
 
@@ -16,6 +16,7 @@
 | **XP/5**           | 0                                                            |
 | **Stats**          | Charm: +2<br>Cool: 0<br>Sharp: +1<br>Tough:  +1<br>Weird: -1 |
 | **Luck Spent / 7** | 0                                                            |
+
 **Mundane special:** When you spend a point of Luck, you’ll find something weird—maybe even useful!
 
 ---
@@ -67,6 +68,8 @@ Dullface is a middle aged man with a scruffy face and street clothes. He likes t
 
 ## Moves
 
+### Playbook Moves
+
 - **Let’s Get Out Of Here!**: *If you can protect someone by telling them what to do, or by leading them out, roll +Charm instead of +Tough.*
 
 - **The Power of Heart:** *When fighting a monster, if you help someone, don’t roll +Cool. You automatically help as though you’d rolled a 10.*
@@ -79,6 +82,9 @@ Dullface is a middle aged man with a scruffy face and street clothes. He likes t
 - **Oops!:** *If you want to stumble across something important, tell the Keeper. You will find something important and useful, although not necessarily related to your immediate problems.*
 
 ### Alternate Weird Move - Telekinesis
+
+>[!warning]
+> An alternate weird move means the hunter cannot [[Rules/Use Magic\|Use Magic]]. However, they can still attempt a [[Rules/Weird Work\|Weird Work]].
 
 *When you fling something with your mind, roll +Weird:* 
 - *On a 10+, you move it. Choose two options and mark 1-harm.*
@@ -101,6 +107,17 @@ Dullface is a middle aged man with a scruffy face and street clothes. He likes t
 	- *Something explodes (3-harm close fire area messy)* 
 	- *Something implodes (3-harm close crush) • Lots of stuff is flying under your control.* 
 	- *You have perfect and precise control over exactly what happens*
+
+### Company Move
+
+**Contact Mythsecure - Team Member:** When you deal with the agency while not the team's designated contact, requesting help or gear, or making excuses for a failure, ignore your Sharp stat and roll as follows:
+
+- If a hunter has a sharp value of 0, +1, +2, +3, roll _-1 (minus one)_.
+- If a hunter has negative sharp, roll _-2 (minus two)_.
+
+- On a 10+, you’re good! Your request for gear or personnel is okayed, or your slip-up goes unnoticed.
+	- On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. 
+	- On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
 
 
 ---

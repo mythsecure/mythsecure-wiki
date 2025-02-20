@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-19T12:16:04.263-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-19T21:09:32.078-05:00"}
 ---
 
 # Asha
@@ -69,6 +69,8 @@ This was evident when Asha contacted her followers to ask for help with [[One-Of
 ---
 ## Moves
 
+### Playbook Moves
+
 - **See, It All Fits Together**: You can use Sharp instead of Charm when you manipulate someone
 - **Net Friends**: You know a lot of people on the Internet. When you contact a net friend to help you with a mystery, roll +Charm. 
 	- On a 10+, they’re available and helpful—they can fix something, break a code, hack a computer, or get you some special information.
@@ -80,6 +82,8 @@ This was evident when Asha contacted her followers to ask for help with [[One-Of
 
 ### Alternate Weird Move - Empath
 
+>[!warning]
+> An alternate weird move means the hunter cannot [[Rules/Use Magic\|Use Magic]]. However, they can still attempt a [[Rules/Weird Work\|Weird Work]].
 
 *When you open up your brain to feel the emotions of something right there in front of you, roll +Weird:*
 - *On a 10+, you gain a clear impression of their current emotional state and intentions. Take +1 forward when acting on this knowledge.*
@@ -88,6 +92,17 @@ This was evident when Asha contacted her followers to ask for help with [[One-Of
 - *Advanced: On a 12+, you get an impression (as for 10 or more), and you may ask one follow-up question that the Keeper will answer honestly.* 
 
 *You can use empath on anything with emotions, but the less human they are, the less it’s safe for you. If the emotions are especially strong or alien, you might need to act under pressure.*
+
+### Company Move
+
+**Contact Mythsecure - Team Member:** When you deal with the agency while not the team's designated contact, requesting help or gear, or making excuses for a failure, ignore your Sharp stat and roll as follows:
+
+- If a hunter has a sharp value of 0, +1, +2, +3, roll _-1 (minus one)_.
+- If a hunter has negative sharp, roll _-2 (minus two)_.
+
+- On a 10+, you’re good! Your request for gear or personnel is okayed, or your slip-up goes unnoticed.
+	- On a 7-9, things aren’t so great. You might get chewed out by your superiors and there’ll be fallout, but you get what you need for the job. 
+	- On a miss, you screwed up: you might be suspended or under investigation, or just in the doghouse. You certainly aren’t going to get any help until you sort it all out.
 
 
 ---
