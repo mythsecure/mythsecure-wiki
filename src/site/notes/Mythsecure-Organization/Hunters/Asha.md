@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-19T21:09:32.078-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/asha/","tags":["hunter"],"created":"2024-05-28T11:32:02.000-04:00","updated":"2025-02-23T20:51:42.043-05:00"}
 ---
 
 # Asha
@@ -15,6 +15,7 @@
 | **XP/5**           | 3                                                             |
 | **Stats**          | Charm: _-1_<br>Cool: +1<br>Sharp: 0<br>Tough: +1<br>Weird: +2 |
 | **Luck Spent / 7** | 0                                                             |
+| **Armor**          | 0                                                             |
 
 **Flake Special:** When you spend a point of Luck, pick an aspect of the current situation. The Keeper will tell you what other conspiracies that aspect connects to.
 

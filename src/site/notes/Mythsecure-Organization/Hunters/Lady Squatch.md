@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/","tags":["hunter"],"created":"2024-05-28T11:33:50.000-04:00","updated":"2025-02-19T21:16:29.264-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/lady-squatch/","tags":["hunter"],"created":"2024-05-28T11:33:50.000-04:00","updated":"2025-02-27T14:34:55.413-05:00"}
 ---
 
 
@@ -7,15 +7,16 @@
 
 ## Info Table
 
-|                         |                                                                   |
-| ----------------------- | ----------------------------------------------------------------- |
-| **Name**                | Lady Squatch                                                      |
-| **Playbook**            | The Divine                                                        |
-| **Pronouns**            | She/It                                                            |
-| **Level**               | 2                                                                 |
-| **XP/5**                | 0                                                                 |
-| **Stats**               | Charm: _-1_<br>Cool:  +2<br>Sharp:  _-1_<br>Tough: +2<br>Weird: 0 |
-| **Luck Spent / 7**      | 0                                                                 |
+|                    |                                                                   |
+| ------------------ | ----------------------------------------------------------------- |
+| **Name**           | Lady Squatch                                                      |
+| **Playbook**       | The Divine                                                        |
+| **Pronouns**       | She/It                                                            |
+| **Level**          | 2                                                                 |
+| **XP/5**           | 2                                                                 |
+| **Stats**          | Charm: _-1_<br>Cool:  +2<br>Sharp:  _-1_<br>Tough: +3<br>Weird: 0 |
+| **Luck Spent / 7** | 0                                                                 |
+| **Armor**          | 1                                                                 |
 
 
 **Divine special:** When you spend a point of Luck, you get word your Mission requires something difficult that must be done. By you. Urgently.
@@ -84,9 +85,18 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 	- *On a 7-9, you don’t quite manage it. Either you are all separated, or you all appear in the wrong place.*
 	- *On a miss, nothing happens. You can't try again for a little while.*
 
+
+- **Lay On Hands:** *Your touch can heal injury and disease. When you lay your hands on someone hurt, roll +Cool.* 
+	- *On a 10+, heal 2 harm or an illness, plus they’re stabilized.* 
+	- *On a 7-9, you can heal the harm or illness as on a 10+, but you take it into yourself.* 
+	- *On a miss, your aura causes them extra harm.*
+Acquired at Level 2
+	
+
 - **What I Need, When I Need It**: *You may store any small object you own, putting it into a magical space nobody can get to. You may retrieve anything you stored at any time; it appears in your hand.*
 
 - **Soothe:** *When you talk to someone for a few seconds in a quiet voice, you can calm them down, blocking any panic, anger, or other negative emotions they have. This works even if the thing that freaked them out is still present, as long as your voice can be heard.*
+
 
 
 ### Alternate Weird Move - Illuminated
@@ -117,6 +127,8 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 **Normal Weapons**
 - Razor whip: 3-harm, hand, area, messy, holy
 
+**Armor**
+- 1980's Power Suit
 
 
 ---
@@ -125,20 +137,21 @@ Lady Squatch has determined that [[Mythsecure-Organization/Hunters/Chonko\|Chonk
 
 ### History
 
-| Level Gained | Detail |
-| ------------ | ------ |
-| 2            |        |
-|              |        |
+| Level Gained | Detail                           |
+| ------------ | -------------------------------- |
+| 2            | Gained **Lay on Hands**          |
+| 3            | Got +1 Tough (reached max of +3) |
 
 ### Options
 
 #### Basic Options
-- [ ] Get +1 Tough, max +3
+- [x] Get +1 Tough, max +3
 - [ ] Get +1 Cool, max +2
 - [ ] Get +1 Charm, max +2
 - [ ] Get +1 Sharp, max +2
 - [ ] Get +1 Weird, max +2
-- [ ] Take another Divine move
+- [x] Take another Divine move
+	- [x] Took **Lay on Hands**
 - [ ] Take another Divine move
 - [ ] Gain a lesser divine being as an ally, sent from above to help with your mission
 - [ ] Take a move from another playbook

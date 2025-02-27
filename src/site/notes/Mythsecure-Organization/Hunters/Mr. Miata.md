@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/mr-miata/","tags":["hunter"],"created":"2024-05-24T13:46:16.000-04:00","updated":"2025-02-19T21:07:09.785-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/mr-miata/","tags":["hunter"],"created":"2024-05-24T13:46:16.000-04:00","updated":"2025-02-27T14:34:27.638-05:00"}
 ---
 
 
@@ -7,15 +7,16 @@
 
 ## Info Table
 
-|                    |                                                                 |
-| ------------------ | --------------------------------------------------------------- |
-| **Name**           | Mr. Miata                                                       |
-| **Playbook**       | The Professional                                                |
-| **Pronouns**       | he/him                                                          |
-| **Level**          | 1                                                               |
-| **XP/5**           | 0                                                               |
-| **Stats**          | Charm: +1<br>Cool:  +2<br>Sharp:  +1<br>Tough: _-1_<br>Weird: 0 |
-| **Luck Spent / 7** | 0                                                               |
+|                    |                                                              |
+| ------------------ | ------------------------------------------------------------ |
+| **Name**           | Mr. Miata                                                    |
+| **Playbook**       | The Professional                                             |
+| **Pronouns**       | he/him                                                       |
+| **Level**          | 2                                                            |
+| **XP/5**           | 1                                                            |
+| **Stats**          | Charm: +1<br>Cool:  +2<br>Sharp:  +1<br>Tough: 0<br>Weird: 0 |
+| **Luck Spent / 7** | 0                                                            |
+| **Armor**          | 2 (max)                                                      |
 
 **Professional Special:** When you spend a point of Luck, your next mission from the Agency comes with lots of Red Tape. Lots.
 
@@ -116,13 +117,16 @@ But also negatives:
 
 **Serious Weapons**
 - Sniper Rifle: 4-harm, far
+	- Scoped M1 Garand that makes a loud PING after ejecting the magazine when empty
+	- Mr. Miata hangs a hot pink Hello Kitty keychain from the rifle's charging handle. The strap is also hot pink
 
 **Normal Weapons**
 - 9mm Pistol: 2-harm close, loud
 - Big Knife: 1-harm, hand
+	- "Crocodile dundee knife"
 
 **Armor**
-- Flak vest: 1 armor, hidden
+- Flak vest: 1 armor, hidden under clothing
 
 **Means of Transport**
 - Batman-Style Moto-Trike that tows a wagon 
@@ -136,10 +140,10 @@ But also negatives:
 
 ### History
 
-| Level Gained | Detail |
-| ------------ | ------ |
-| 1            |        |
-|              |        |
+| Level Gained | Detail       |
+| ------------ | ------------ |
+| 2            | Got +1 Tough |
+|              |              |
 
 ### Options
 
@@ -147,7 +151,7 @@ But also negatives:
 - [ ] Get +1 Cool, max +3
 - [ ] Get +1 Charm, max +2
 - [ ] Get +1 Sharp, max +2
-- [ ] Get +1 Tough, max +2
+- [x] Get +1 Tough, max +2
 - [ ] Take another Professional move
 - [ ] Take another Professional move
 - [ ] Add a new resource tag for your Agency or change a red tape tag

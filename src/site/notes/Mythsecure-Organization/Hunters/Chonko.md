@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","tags":["hunter"],"created":"2024-05-28T11:32:42.000-04:00","updated":"2025-02-19T21:28:47.100-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/chonko/","tags":["hunter"],"created":"2024-05-28T11:32:42.000-04:00","updated":"2025-02-23T20:51:51.185-05:00"}
 ---
 
 # Chonko
@@ -15,6 +15,7 @@
 | **XP/5**           | 0                                                             |
 | **Stats**          | Charm: _-1_<br>Cool: +1<br>Sharp: 0<br>Tough: +1<br>Weird: +2 |
 | **Luck Spent / 7** | 0                                                             |
+| **Armor**          | 0                                                             |
 
 **Spooky Special:** As you mark off Luck boxes, your dark side’s needs will get nastier.
 
@@ -43,8 +44,8 @@ Chonko's dark side has the following attributes:
 
 _The Keeper can ask you to do nasty things (in accordance with the tags), when your powers need you to. If you do whatever is asked, mark experience. If you don’t do it, then your powers are unavailable until the end of the mystery (or until you cave). As you mark off Luck boxes, these requests will get bigger and nastier._
 
-##### [[Others/Koncho\|Koncho]] and the Dark Bargain
-Chonko's weird abilities come from a "dark bargain" she made with a version of herself from another reality: [[Others/Koncho\|Koncho]]. Chonko can connect to an infinite number of alternate realities.
+##### [[Other Entities/Koncho\|Koncho]] and the Dark Bargain
+Chonko's weird abilities come from a "dark bargain" she made with a version of herself from another reality: [[Other Entities/Koncho\|Koncho]]. Chonko can connect to an infinite number of alternate realities.
 
 All of Chonko's powers come from a connection to other realities where things are different, but that connection is a two way (or infinite way) street. When the bargain works in her favor, Chonko can retrieve great power from other universes. But the other realities may reach into Chonko's (the reality of the game universe) and steal reality for themselves.
 

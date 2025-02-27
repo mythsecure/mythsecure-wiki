@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","tags":["hunter"],"created":"2024-08-16T16:52:26.000-04:00","updated":"2025-02-19T21:09:50.075-05:00"}
+{"dg-publish":true,"permalink":"/mythsecure-organization/hunters/dullface/","tags":["hunter"],"created":"2024-08-16T16:52:26.000-04:00","updated":"2025-02-27T18:03:45.486-05:00"}
 ---
 
 
@@ -13,9 +13,10 @@
 | **Playbook**       | The Mundane                                                  |
 | **Pronouns**       | he/him                                                       |
 | **Level**          | 2                                                            |
-| **XP/5**           | 0                                                            |
+| **XP/5**           | 2                                                            |
 | **Stats**          | Charm: +2<br>Cool: 0<br>Sharp: +1<br>Tough:  +1<br>Weird: -1 |
 | **Luck Spent / 7** | 0                                                            |
+| **Armor**          | 0                                                            |
 
 **Mundane special:** When you spend a point of Luck, you’ll find something weird—maybe even useful!
 
